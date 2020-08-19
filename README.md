@@ -1,6 +1,6 @@
-# Sieve-Analysis-And-Hydrometer
+# Aggregate-Properties-Manual
 
-Sieve analysis and hydrometer lab exercise for an introductory geotechnical course.
+Relative density manual for an introductory civil materials course following ASTM C127 and C128.
 
 This repository serves as a sort of "track-changes" for the laboratory manual. This also allows others to clone the repository for use in systems outside of Overleaf.
 
